@@ -1,0 +1,39 @@
+/* ***************************
+***************************
+
+ 05- CockTail ProJect
+***************************
+*************************** */
+/* 
+====== 
+Reducer
+======
+*/
+.btn {
+  font-size: 2.6rem;
+  padding: 2rem 3rem;
+}
+.btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.btn:hover {
+  color: #555;
+  background-color: rgb(165, 210, 245);
+}
+.form-label {
+  font-size: 2rem;
+}
+.btn-alert {
+  background-color: rgb(255, 123, 0);
+  font-weight: 700;
+  margin: 0 auto;
+  display: block;
+  text-transform: uppercase;
+  margin-top: 5rem;
+}
+.btn-alert:hover {
+  background-color: rgba(255, 123, 0, 0.693);
+  font-weight: 700;
+}
